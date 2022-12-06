@@ -43,7 +43,7 @@ Klasyczne asercje:
 
 
 #### Zadanie 7 - CollectionAssert
-Dokumentacja klasy: https://docs.nunit.org/articles/nunit/writing-tests/assertions/classic-assertions/Collection-Assert.html
+
 1. Napisz test dla klasy `CollectionService`;
 2. Przetestuj utworzenie nowego obiektu konstruktorem bezparametrowym.
 3. Sprawdź czy property `Names` zawiera unikalne elementy.
